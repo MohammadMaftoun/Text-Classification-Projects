@@ -11,7 +11,7 @@ Text classification is a natural language processing (NLP) task where the goal i
 
 # Datasets
 
-These projects leverage various datasets, including but not limited to:
+These projects leverage various data based on Kaggle datasets, including but not limited to:
 
     IMDB: A dataset of movie reviews with binary sentiment labels (positive/negative).
     CoronavirusTweets
