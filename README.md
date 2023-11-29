@@ -18,7 +18,7 @@ These projects leverage various data based on Kaggle datasets, including but not
     Ecommerce Text classification
     SMS spam
     Emotion Detection
-    
+    Medical Text Dataset
 
 # Prerequisites
 
