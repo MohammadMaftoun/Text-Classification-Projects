@@ -17,6 +17,8 @@ These projects leverage various data based on Kaggle datasets, including but not
     CoronavirusTweets
     Ecommerce Text classification
     SMS spam
+    Emotion Detection
+    
 
 # Prerequisites
 
