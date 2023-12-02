@@ -15,9 +15,9 @@ These projects leverage various data based on Kaggle datasets, including but not
 
     IMDB: A dataset of movie reviews with binary sentiment labels (positive/negative).
     CoronavirusTweets
-    Emotions dataset for NLP
-    Ecommerce Text classification
-    SMS spam
+    Emotions dataset for NLP : Collection of documents and its emotions, It helps greatly in NLP Classification tasks 
+    E-commerce Text classification: A dataset based on Electronics, Household, Books, Clothing and accessories, covers 80%.
+    SMS spam: It includes  a set of SMS-tagged messages that have been collected for SMS Spam research.
     Emotion Detection
     Medical Text Dataset
 
