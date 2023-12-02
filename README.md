@@ -15,6 +15,7 @@ These projects leverage various data based on Kaggle datasets, including but not
 
     IMDB: A dataset of movie reviews with binary sentiment labels (positive/negative).
     CoronavirusTweets
+    Emotions dataset for NLP
     Ecommerce Text classification
     SMS spam
     Emotion Detection
