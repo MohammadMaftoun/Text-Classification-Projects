@@ -3,7 +3,7 @@
 
 # Overview
 
-This repository contains codes for text classification projects by machine learning and deep learning techniques. These projects focus on utilizing various datasets, such as IMDB, for training and evaluating text classification models. The purpose is to classify text data into predefined categories or labels, with an emphasis on understanding and comparing the performance of different models on diverse datasets.
+This repository contains code for text classification projects using machine learning and deep learning techniques. These projects focus on utilizing various datasets, such as IMDB, for training and evaluating text classification models. The purpose is to classify text data into predefined categories or labels, emphasizing understanding and comparing the performance of different models on diverse datasets.
 
 # Introduction
 
@@ -15,9 +15,9 @@ These projects leverage various data based on Kaggle datasets, including but not
 
     IMDB: A dataset of movie reviews with binary sentiment labels (positive/negative).
     CoronavirusTweets
-    Emotions dataset for NLP : Collection of documents and its emotions, It helps greatly in NLP Classification tasks 
-    E-commerce Text classification: A dataset based on Electronics, Household, Books, Clothing and accessories, covers 80%.
-    SMS spam: It includes  a set of SMS-tagged messages that have been collected for SMS Spam research.
+    Emotions dataset for NLP: Collection of documents and their emotions, It helps greatly in NLP Classification tasks 
+    E-commerce Text classification: A dataset based on Electronics, Household, Books, Clothing, and accessories, covers 80%.
+    SMS spam: It includes  a set of SMS-tagged messages collected for SMS Spam research.
     Emotion Detection
     Medical Text Dataset
 
