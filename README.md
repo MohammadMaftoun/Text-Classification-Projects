@@ -3,7 +3,7 @@
 
 # Overview
 
-This repository contains code for text classification projects using machine learning and deep learning techniques. These projects focus on utilizing various datasets, such as IMDB, for training and evaluating text classification models. The purpose is to classify text data into predefined categories or labels, emphasizing understanding and comparing the performance of different models on diverse datasets.
+This repository contains code for text classification projects utilizing machine learning and deep learning techniques. These projects focus on utilizing various datasets, such as IMDB, for training and evaluating text classification models. The purpose is to classify text data into predefined categories or labels, emphasizing understanding and comparing the performance of different models on diverse datasets.
 
 # Introduction
 
