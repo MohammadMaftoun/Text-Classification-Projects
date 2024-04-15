@@ -7,7 +7,7 @@ This repository contains code for text classification projects utilizing machine
 
 # Introduction
 
-Text classification is a natural language processing (NLP) task where the objective is to establish predefined categories or labels for text data automatically. These projects explore the application of machine learning and deep learning methods for text classification, utilizing datasets like IMDB, for training and testing.
+Text classification is a natural language processing (NLP) task where the objective is to establish predefined categories or labels for text data automatically. These projects investigate the application of machine learning and deep learning methods for text classification, utilizing datasets like IMDB, for training and testing.
 
 # Datasets
 
